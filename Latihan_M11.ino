@@ -9,8 +9,8 @@ const char* ssid = "VDSN"; //nama Wi-Fi anda (SSID)
 const char* password = "30082005"; //password Wi-Fi anda
 
 // Firebase credentials
-#define API_KEY "APIFirebaseANda" //Found in Project Settings > General
-#define DATABASE_URL "https://project-anda-id.firebasedatabase.app/" //From Realtime Database URL
+#define API_KEY "AIzaSyCb9UYMXSZ3haCNXT7fMSheQdj194heIvc" //Found in Project Settings > General
+#define DATABASE_URL "https://smart-green-house-27594-default-rtdb.asia-southeast1.firebasedatabase.app/" //From Realtime Database URL
 #define USER_EMAIL "adam123@gmail.com" //email user saat membuat database
 #define USER_PASSWORD "adam123" //password user yang telah didaftarkan
 
